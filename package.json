@@ -1,0 +1,12 @@
+{
+  "name": "mae3seong-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/a1p4ca/mae3seong-server",
+  "author": "a1p4ca <dev.alpaca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.7.0",
+    "mongodb": "^3.1.9"
+  }
+}
